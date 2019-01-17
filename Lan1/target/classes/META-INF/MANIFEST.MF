@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: project1-2017
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: hungnguyenvan
+Implementation-Vendor-Id: com.hung
+Build-Jdk: 1.8.0_191
+Implementation-URL: http://projects.spring.io/spring-boot/project1-201
+ 7/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
